@@ -1,4 +1,4 @@
-👋 Hi, I'm Nermin
+👋 Hi, I'm Narmin
 
 🎯 Aspiring Data Analyst | SQL Certified | Learning Excel & Power BI
 
